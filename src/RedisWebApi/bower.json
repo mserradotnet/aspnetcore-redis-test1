@@ -1,0 +1,12 @@
+{
+  "name": "asp.net",
+  "private": true,
+  "dependencies": {
+    "knockout": "^3.4.0",
+    "bootstrap": "^3.3.6",
+    "datatables": "^1.10.12",
+    "datatables.net": "^1.10.12",
+    "datatables.net-dt": "^1.10.12",
+    "datatables.net-bs": "^1.10.12"
+  }
+}
